@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #4CAF50; /* Couleur personnalisée pour la navbar */
+}
+
+footer {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+body {
+    background-color: #f9f9f9; /* Couleur de fond pour le corps de la page */
+}
+
+.container {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
